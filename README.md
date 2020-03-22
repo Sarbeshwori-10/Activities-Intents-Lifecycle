@@ -1,2 +1,2 @@
 # Activities-Intents-Lifecycle
-![](<https://imgur.com/L14rHfn>)
+![](https://imgur.com/L14rHfn)
